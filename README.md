@@ -20,6 +20,11 @@ Si, cuando hemos identificado los tres archivos mas pesados al cargar la pagina 
 Hemos detectado que los botones de "Saber más..." son pequeños, esto dificultaria a las personas con problemas de vista o problemas de psicomotrocidad, sería recomendable tener un modo daltónico de la página para las personas con problemas para percibir los colores en los productos
 
 # Fase 3: Dimensión de Gobernanza y Ética (G)
+
+## Transparencia 
+Si, es fácil rechazarlas. Puedes elegir qué cookies aceptar y si las rechazas no pasa nada, te dejan acceso completo.
+
+## Datos innecesarios
 No pide datos para la navegación básica de la página, solo para aquellos empresarios que quieren ser socio de la empresa
 
 # Fase 4: Propuesta de Refactorización (Green Coding)
