@@ -24,3 +24,12 @@ No pide datos para la navegación básica de la página, solo para aquellos empr
 
 Fase 4: Propuesta de Refactorización (Green Coding)
 
+Optimización de activos. 
+- AVIF
+- Si, implementariamos Lazy Loading
+
+Reducción de peticiones.
+- Eliminar fuentes externas, eliminar librerías redundantes
+
+Reflexión sobre la Paradoja de Jevons.
+- Lo evitaría con Green Hosting, Generación Estática y modo oscuro
