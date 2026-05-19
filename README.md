@@ -19,5 +19,8 @@ Test de Accesibilidad.
 Identificación de barreras.
 Hemos detectado que los botones de "Saber más..." son pequeños, esto dificultaria a las personas con problemas de vista o problemas de psicomotrocidad, sería recomendable tener un modo daltónico de la página para las personas con problemas para percibir los colores en los productos
 
+Fase 3: Dimensión de Gobernanza y Ética (G)
+No pide datos para la navegación básica de la página, solo para aquellos empresarios que quieren ser socio de la empresa
 
+Fase 4: Propuesta de Refactorización (Green Coding)
 
