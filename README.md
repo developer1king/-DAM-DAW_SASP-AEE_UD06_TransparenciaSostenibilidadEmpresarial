@@ -17,6 +17,7 @@ Test de Accesibilidad.
 <img width="926" height="331" alt="image" src="https://github.com/user-attachments/assets/8d9b769d-f730-404f-a6f5-79605f805f69" />
 
 Identificación de barreras.
-Hemos detectado que los botones de "Saber más..." son pequeños, esto dificultaria a las personas con problemas de vista o problemas de psicomotrocidad.
+Hemos detectado que los botones de "Saber más..." son pequeños, esto dificultaria a las personas con problemas de vista o problemas de psicomotrocidad, sería recomendable tener un modo daltónico de la página para las personas con problemas para percibir los colores en los productos
+
 
 
