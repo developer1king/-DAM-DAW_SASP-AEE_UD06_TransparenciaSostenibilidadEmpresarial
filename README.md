@@ -1,5 +1,7 @@
 # -DAM-DAW_SASP-AEE_UD06_TransparenciaSostenibilidadEmpresarial
 
+# 2. Instrucciones y Fases de la Auditoría
+
 # Fase 1: Inventario y Dimensión Ambiental (A)
 
 ## Medición inicial.
@@ -38,3 +40,14 @@ No pide datos para la navegación básica de la página, solo para aquellos empr
 
 ## Reflexión sobre la Paradoja de Jevons.
 - Lo evitaría con Green Hosting, Generación Estática y modo oscuro
+
+# 3. Refactorización. Propuesta.
+
+## Las mejoras técnicas que hemos estructurado son:
+
+- loading=”lazy” en todas las imágenes menos en la principal
+- Dimensiones concretas en las imágenes para que se mantengan igual al cargar la página
+- <time datatime=” “> para no cargar librerias extras omisibles
+- aria-label, aria-current, role=”list” donde corresponda
+- Una sola fuente para no cargar enlaces externos de puente
+- Html y css semántica en lugar de meterlo todo en el mismo
